@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>25eadefc-8814-11ed-b53e-40e230b71d70.jpg</filename>
+	<path>G:\Study 4-1\Ongoing Projects\Millionaire Project\AI\Python Crash Course\face_mask_detector\tensorflow\workspace\images\Mask\25eadefc-8814-11ed-b53e-40e230b71d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>312</ymin>
+			<xmax>512</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
